@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<procedimento num="0" desc="cria  cadastros com confirmação de senha errada">
+
+  <caso num="0">
+     <nome>Almir</nome>
+     <sobrenome>sales</sobrenome>
+     <email>eu@gmail.com</email>
+     <senha>1327</senha>
+   <mensagem>Digite uma senha com pelo menos seis caracteres</mensagem>
+     
+  </caso>
+  
+   <caso num="1">
+     <nome>Euzébio</nome>  
+     <sobrenome>Fagundes</sobrenome>
+     <email>eu@gmail.com</email>
+     <senha>hhhhhhhhhhh</senha>
+   <mensagem>Insira uma senha que contenha pelo menos 1 número</mensagem>
+     
+  </caso>
+  <caso num="2">
+     <nome>Lurdes</nome>
+     <sobrenome>Almeida</sobrenome>
+     <email>eu@gmail.com</email>
+     <senha>g1T</senha>
+   <mensagem>Digite uma senha com pelo menos seis caracteres</mensagem>
+     
+  </caso>
+  
+ 
+  
+  
+  </procedimento>
